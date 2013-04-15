@@ -6,9 +6,9 @@ It serves no other purpose than for managing bugs and suggestions.
 
 Points of Contact
 ----------------
-Main Developer: [ParaPup](http://steamcommunity.com/id/ParaPup) (Main Contact)
-Authorised Mapper: [Python1320](http://steamcommunity.com/id/python1320) (If cannot contact ParaPup)
-Logistics: [Psihusky](http://steamcommunity.com/id/Psihusky) (For all other issues and inquries)
+* Main Developer: [ParaPup](http://steamcommunity.com/id/ParaPup) (Main Contact)
+* Authorised Mapper: [Python1320](http://steamcommunity.com/id/python1320) (If cannot contact ParaPup)
+* Logistics: [Psihusky](http://steamcommunity.com/id/Psihusky) (For all other issues and inquries)
 
 Reporting Issues/Bugs
 ----------------
